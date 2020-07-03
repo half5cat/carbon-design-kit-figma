@@ -1,2 +1,3 @@
-# carbon-design-kit-figma
-A design kit of the Carbon Design System visual assets (components, iconography, color palettes, grids, templates) ported to Figma.
+# Carbon Design Kit for Figma (unofficial)
+
+The Carbon Design Kit for Figma is based on the <a href="https://github.com/carbon-design-system/carbon-design-kit/">Carbon Design Kit</a> for Sketch provided by the IBM team. I am in no way affiliated with IBM. I tried to keep it as consistent as possible while at the same time enabling the use of Figma's features (ie Auto Layout). Although, it is based on the latest release of the Sketch Kit (v10.10.0), it is a little bit different as I fixed some bugs I found in the Sketch Kit along the way and already provided a more current representation of the Design System (ie moving the helper text below the input fields). 
